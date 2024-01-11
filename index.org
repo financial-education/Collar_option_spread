@@ -1,0 +1,12 @@
+#+title: Collar Stock Option Spread
+#+author: Matt Brigida, Ph.D.
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/org/theme-readtheorg.setup
+#+HTML_HEAD: <style>pre.src{background:#343131;color:white;} </style>
+
+
+
+Video Explanation:
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zwqUI-gS_64?si=DDey5sZKMwpr_oXH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#+end_export
